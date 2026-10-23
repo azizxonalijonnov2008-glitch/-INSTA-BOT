@@ -1,0 +1,21 @@
+# Maxfiy ma'lumotlar va tokenlar
+.env
+
+# Python keshlari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual muhit
+venv/
+.venv/
+env/
+
+# Yuklab olingan vaqtinchalik fayllar
+downloads/*
+!downloads/.gitkeep
+
+# IDE va tizim fayllari
+.vscode/
+.idea/
+Thumbs.db
